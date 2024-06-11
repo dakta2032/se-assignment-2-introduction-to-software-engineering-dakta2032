@@ -7,8 +7,11 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-
 What is software engineering, and how does it differ from traditional programming?
+√ Software Engineering:-is a comprehensive field(branch of computer)that encompasses the systematic design, development, and maintenance of software system or application while;
+√Traditional programming:-is focused on the act of writing code. Programmers take the software design and turn it into a functional product by writing and debugging code.
+√ Notable Case Example:-Consider the development of a mobile application like WhatsApp. A software engineer would be involved in the initial concept, determining features based on user needs, designing the user interface, planning the development phases, and overseeing the testing and deployment. Programmers would be responsible for writing the code that makes up the application, ensuring it works as intended, and debugging any issues that arise during testing.
+
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
